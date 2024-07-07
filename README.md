@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a university student majoring in Arabic language and culture and International relations. I love linguistics, technology and travelling. 
+I am a university student majoring in Arabic language and culture and International relations. I love linguistics, technology and travelling. I love finding new solutions to problems and I love learning new things and skills.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
